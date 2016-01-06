@@ -1,0 +1,17 @@
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #333333;
+}
+
+.text-thick {
+    font-weight: 700;
+}
+
+.super-text {
+    font-size: 60px;
+}
+
+.vertical-center {
+    display: flex;
+    align-items: center;
+}
